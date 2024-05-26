@@ -17,4 +17,4 @@ This simple C++ program allows you to encrypt and decrypt files using XOR encryp
 Enter file path: C:\Users\Person\Desktop\example.txt
 Enter password: mypassword
 Do you want to encrypt (e) or decrypt (d) the file? e
-File encrypted successfully!```
+File encrypted successfully!
